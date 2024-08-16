@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "110451384524",
+    "firebase_url": "https://telehealth-991c9-default-rtdb.firebaseio.com",
+    "project_id": "telehealth-991c9",
+    "storage_bucket": "telehealth-991c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110451384524:android:9f6ec297f286fada50a269",
+        "android_client_info": {
+          "package_name": "com.example.telehealth_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBza0fV3oUnvfWjNzkmAaYrN7fZt87BLfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
